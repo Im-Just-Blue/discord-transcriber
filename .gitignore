@@ -48,3 +48,5 @@ discord.config.json
 google-cloud.credentials.json
 playground
 .tmp
+secret
+
